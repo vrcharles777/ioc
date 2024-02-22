@@ -1,0 +1,11 @@
+dn: cn=admin,ou=groups,ou=administradors,dc=cavicenteru,dc=hades
+objectClass: posixGroup
+cn: admin
+gidNumber: 6000
+memberUid: admin
+ 
+dn: cn=tecnic,ou=groups,ou=tecnics,dc=cavicenteru,dc=hades
+objectClass: posixGroup
+cn: tecnic
+gidNumber: 5000
+memberUid: tecnic
